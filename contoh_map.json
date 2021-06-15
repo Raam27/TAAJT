@@ -26,8 +26,8 @@
     "of:000000000000000a": { "basic": { "name": "Makassar", "latitude": -5.1342962, "longitude": 119.4124282 }},
     "of:000000000000000b": { "basic": { "name": "Kendari", "latitude": -3.9918068, "longitude": 122.5180066 }},
     "of:000000000000000c": { "basic": { "name": "Palu", "latitude": -0.8957793, "longitude": 119.8679974 }},
-    "of:000000000000000d": { "basic": { "name": "Gorontalo", "latitude": 0.5384433, "longitude": 123.0594971 }},
-    "of:000000000000000e": { "basic": { "name": "Manado", "latitude": 1.4900578, "longitude": 126.8408708 }},
+    "of:000000000000000d": { "basic": { "name": "Gorontalo", "latitude": 0.8384433, "longitude": 121.0594971 }},
+    "of:000000000000000e": { "basic": { "name": "Manado", "latitude": 1.2900578, "longitude": 124.8408708 }},
     "of:000000000000000f": { "basic": { "name": "Ambon", "latitude": -3.6959434, "longitude": 128.178785 }},
     "of:000000000000001a": { "basic": { "name": "Ternate", "latitude": 0.7852331, "longitude": 127.3831973 }},
     "of:000000000000001b": { "basic": { "name": "Tuah", "latitude": -3.702023, "longitude": 131.220099 }},
@@ -38,7 +38,7 @@
   },
 
   "hosts": {
-    "00:00:00:00:00:01/-1": { "basic": { "locations": ["of:0000000000000001/1"], "name": "Lhoks-Unimal", "ips": ["10.1.0.1"], "latitude": 5.23234885, "longitude": 96.9845532398596 }},
+    "00:00:00:00:00:01/-1": { "basic": { "locations": ["of:0000000000000001/1"], "name": "Lhoks-Unimal", "ips": ["10.1.0.1"], "latitude": 493234885, "longitude": 96.9845532398596 }},
     "00:00:00:00:00:02/-1": { "basic": { "locations": ["of:0000000000000001/2"], "name": "Unimed", "ips": ["10.1.0.2"], "latitude": 3.306250, "longitude": 98.716125 }},
     "00:00:00:00:00:03/-1": { "basic": { "locations": ["of:0000000000000002/1"], "name": "Batam", "ips": ["10.2.0.3"], "latitude": 1.1061034, "longitude": 104.0378246 }},
     "00:00:00:00:00:04/-1": { "basic": { "locations": ["of:0000000000000002/2"], "name": "Pdo-UNP", "ips": ["10.2.0.4"], "latitude": -0.898208, "longitude": 100.350086 }},
