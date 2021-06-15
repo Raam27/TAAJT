@@ -147,7 +147,6 @@ class MyTopo( Topo ):
         self.addLink(s24, h21)
         self.addLink(s26, s27)
         self.addLink(s27, s28)
-        self.addLink(s28, s22)
         self.addLink(s29, s13)
         self.addLink(s31, s13)
 
