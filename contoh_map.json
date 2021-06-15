@@ -40,7 +40,8 @@
   "hosts": {
     "00:00:00:00:00:01/-1": { "basic": { "locations": ["of:0000000000000002/1"], "name": "Lhoks-Unimal", "ips": ["10.0.0.1"], "latitude": 4.93234885, "longitude": 96.9845532398596 }},
     "00:00:00:00:00:02/-1": { "basic": { "locations": ["of:0000000000000002/2"], "name": "Unimed", "ips": ["10.0.0.2"], "latitude": 3.306250, "longitude": 98.716125 }},
-    "00:00:00:00:00:03/-1": { "basic": { "name": "Batam", "ips": ["10.0.0.3"], "latitude": 1.1061034, "longitude": 104.0378246 }},
+    "00:00:00:00:00:03/-1": { "basic": { "locations": ["of:0000000000000003/1"], "name": "Batam", "ips": ["10.0.0.3"], "latitude": 1.1061034, "longitude": 104.0378246 }},
+    "00:00:00:00:00:03/-2": { "basic": { "locations": ["of:0000000000000012/1"], "name": "Batam", "ips": ["10.0.0.3"], "latitude": 1.1061034, "longitude": 104.0378246 }},
     "00:00:00:00:00:04/-1": { "basic": { "locations": ["of:0000000000000004/1"], "name": "Pdo-UNP", "ips": ["10.0.0.4"], "latitude": -0.898208, "longitude": 100.350086 }},
     "00:00:00:00:00:05/-1": { "basic": { "locations": ["of:0000000000000004/2"], "name": "Pdg-STSI", "ips": ["10.0.0.5"], "latitude": -0.469253, "longitude": 100.407801 }},
     "00:00:00:00:00:06/-1": { "basic": { "locations": ["of:0000000000000004/3"], "name": "Pyk-Politani", "ips": ["10.0.0.6"], "latitude": -0.169853, "longitude": 100.664087 }},
